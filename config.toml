@@ -1,4 +1,4 @@
-baseURL = 'https://snippets.eddy.rest'
+baseURL = 'https://snippets-archie.netlify.app'
 languageCode = 'en-us'
 title = 'Code Snippets'
 
