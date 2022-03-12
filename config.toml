@@ -46,3 +46,6 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[plugins]]
+package = "@netlify/plugin-functions-install-core"
